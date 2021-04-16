@@ -1,21 +1,22 @@
-- title: Social Good!
-  event: CTF Week
+- title: Swift Megaminds Portfolio Website
+  event: Orientiation Week
   date: Spring 2021
 
-- title: Developer Tools!
-  event: Retrospective Week
+- title: Capture The Flag Events
+  event: Security Week
   date: Spring 2021
 
-- title: Machine Learning Project
+- title: Github NFT Minter
   event: MLH Fellowship Explorer Sprint 2
-  date: Spring 2021
-
-- title: Fun Game
-  event: MLH Fellowship Explorer Sprint 1
   date: Spring 2021
   page-name: Sprint2
 
-- title: Flash Card Generator
-  event: MLH Fellowship Explorer Sprint 0
+- title: PoseMan
+  event: MLH Fellowship Explorer Sprint 1
   date: Spring 2021
   page-name: Sprint1
+
+- title: PR Visualiser
+  event: MLH Fellowship Explorer Sprint 0
+  date: Spring 2021
+  page-name: Sprint0

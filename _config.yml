@@ -8,12 +8,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/portfolio-template"
 # Protocol + hostname for your portfolio. On GitHub Pages, this is https://yourusername.github.io
 url: "https://wilkesalex.github.io" 
-twitter_username: mlhacks
 github_username: wilkesalex
-form_url: "https://formspree.io/f/xrgodpqo"
 social_image: "./assets/img/social-link.jpg"
 social_image_alt: # Alt text for the link preview image
-google_analytics_measurement_id: # G-XXXXXXXXXX
 
 sass:
   sass_dir: _sass
